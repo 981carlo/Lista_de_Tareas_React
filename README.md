@@ -8,7 +8,6 @@ Permite añadir tareas, marcarlas como completadas, filtrarlas por estado, elimi
 * Añadir nuevas tareas
 * Marcar tareas como completadas o pendientes
 * Filtrar tareas por estado:
-
   * Todas
   * Pendientes
   * Completadas
