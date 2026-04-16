@@ -1,4 +1,4 @@
-import styles from "./TaskItem.module.css";
+import styles from "../styles/TaskItem.module.css";
 import { useTasksContext } from "../hooks/useTasksContext";
 
 export default function TaskItem({ task }) {

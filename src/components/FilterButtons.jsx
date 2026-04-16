@@ -1,4 +1,4 @@
-import styles from "./FilterButtons.module.css";
+import styles from "../styles/FilterButtons.module.css";
 import { useTasksContext } from "../hooks/useTasksContext";
 
 export default function FilterButtons() {

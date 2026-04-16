@@ -1,4 +1,4 @@
-import styles from "./TaskForm.module.css";
+import styles from "../styles/TaskForm.module.css";
 import { useTasksContext } from "../hooks/useTasksContext";
 
 export default function TaskForm() {
