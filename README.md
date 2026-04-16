@@ -40,12 +40,13 @@ src/
   hooks/
     useLocalStorage.js
     useTasks.js
+    useTasks.test.js
     useTasksContext.js
   styles/
     App.module.css
+    FilterButtons.module.css
     TaskForm.module.css
     TaskItem.module.css
-    FilterButtons.module.css
   App.jsx
   main.jsx
   setupTests.js
